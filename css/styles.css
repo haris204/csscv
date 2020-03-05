@@ -1,0 +1,141 @@
+
+body{
+  color: #40514E;
+    margin: 0;
+  text-align: center;
+font-family: 'Merriweather',serif ;
+}
+
+p{
+line-height: 1.7;
+}
+h1
+{
+  color: #02a8a8;
+  font-size: 330%;
+  margin: 50px auto 0 auto;
+font-family: 'Pacifico', cursive;
+}
+h2
+{padding-bottom: 10px;
+  color: #297ca0;
+  font-size: 250%;
+font-family: 'Satisfy', sans-serif;
+}
+h3
+{
+  color: #297ca0;
+ font-family: 'Satisfy', sans-serif;
+ font-size: 160%;
+}
+
+hr{
+  border: dotted #bbbbbb 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container{
+background-color: #e1f2fb;
+position: relative;
+padding-top: 100px;
+
+}
+.bottom-cloud
+{
+
+position: absolute;
+left: 260px;
+bottom: 300px;
+}
+.top-cloud
+{
+  position: absolute;
+right: 300px;
+  top: 50px;
+
+}
+.imagess
+{
+    height:140px;
+}
+.skillimage1
+{
+  width:27%;
+float: left;
+margin-right: 30px;
+}
+.skillimage2
+{
+width:27%;
+float: right;
+margin-left: 30px;
+}
+.para{
+
+  color: #02a8a8;
+  font-size:155%;
+  font-family: 'montserrat',sans-serif;
+}
+.skill-row
+{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+
+}
+.middle-container{
+  margin: 100px 0;
+}
+.para2{
+  width: 30%;
+  margin: auto;
+}
+.contact-me{
+  width:40%;
+ margin: 40px auto 60px;
+}
+
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #0029f5;
+	background:linear-gradient(to bottom, #20e6dc 5%, #0090f0 100%);
+	background-color:#20e6dc;
+	border-radius:6px;
+	border:1px solid #086bff;
+	display:inline-block;
+	cursor:pointer;
+	color:#fffaff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0d7ad9;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #0090f0 5%, #20e6dc 100%);
+	background-color:#0090f0;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color:  #3fc5f0;
+  padding: 50px 0 20px;
+}
+a{
+  color: #00918e;
+  font-family: 'montserrat',sans-serif;
+  margin: 20px 15px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eafbea;
+
+}
+.copyright{
+  color: #ececeb;
+  font-family: 'Merriweather',serif ;
+  font-size: 1.0rem;
+  padding: 10px 0;
+ }
